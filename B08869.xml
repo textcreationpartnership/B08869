@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The muses joy for the recovery of that weeping vine Henretta Maria, the most illustrious Queen-Mother and her royal branches.</title>
+            <author>Crouch, John, fl. 1660-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08869</idno>
+            <idno type="STC">Wing C7301A</idno>
+            <idno type="STC">ESTC R174398</idno>
+            <idno type="EEBO-CITATION">64551138</idno>
+            <idno type="OCLC">ocm 64551138</idno>
+            <idno type="VID">184499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184499)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The muses joy for the recovery of that weeping vine Henretta Maria, the most illustrious Queen-Mother and her royal branches.</title>
+                  <author>Crouch, John, fl. 1660-1681.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory signed: "Jo. Crouch" -- p. [4].</note>
+                  <note>Part in verse.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669 --  Poetry --  Early works to 1800.</term>
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184499:1" rendition="simple:additions"/>
+            <p>THE MUSES JOY For the recovery of that Weeping Vine <hi>HENRETTA-MARIA,</hi> The moſt Illuſtrious Queen-Mother, and Her Royall Branches.</p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184499:2" rendition="simple:additions"/>
+            <pb facs="tcp:184499:2" rendition="simple:additions"/>
+            <head>TO THE Virtuous and Right Honourable, <hi>ANNA-MARIA,</hi> Counteſs of <hi>Shrewsbury.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>O<g ref="char:V">Ʋ</g> might upon the firſt view condemn this Oblation (coming ſo late) as unvoluntary; and therefore unacceptable; did it not bring with it an Apology, which common charity cannot refuſe, the truth is, this Poem hath ſtrug<g ref="char:EOLhyphen"/>gled for life with no leſs oppoſition than Mortality it ſelfe; the honeſt Printer who undertook to give it birth, dying in the very act of its Delivery: where it hath remained theſe three weeks wrapt in a dead mans ſheet, ſtriving for birth like one of thoſe preternatural Iſſues of the Sun upon the ſlime of <hi>Nilus,</hi> part ſhaped and alive, part without forme or motion, and it had deſervedly expired with him, had it not born in the Front of it two ſacred Signatures of my duty to Her Majeſty, and my reſpect to Your Ladiſhip. You muſt needs beg me the Queens pardon for being guilty of an innocent Homicide, for Her Majeſties ſake; vvhich accident hath added to my preſumption. What the Ambi<g ref="char:EOLhyphen"/>tion of others aims at in their <hi>high addreſſes,</hi> I ſhall not determine; whenever I put on <hi>Eagles wings,</hi> the Augury of my deſign is (the natural effect of diſtance) by ſoaring high to <hi>leſſen</hi> my own merits, and magnifie my obligations. And although I never had the honor to be related to thoſe noble Families the <hi>Shrewsburies</hi> and <hi>Brudenals</hi> (now in a happy conjunction) yet when I hear the high Expreſſions of both from a Brother and a Siſter, I cannot be unconcern'd in their
+<pb facs="tcp:184499:3"/>
+               <hi>debt of duty,</hi> or paſſive in their <hi>tranſportations:</hi> but as I am <hi>warm'd,</hi> ſo I muſt <hi>admire</hi> by reflection. This (the grea<g ref="char:EOLhyphen"/>ter Her preſumption is my Muſes <hi>ſecond Service</hi> to your Ladyſhip; though yet ſhe never brought an <hi>Embaſſy</hi> of ill news, never put your <hi>fair eyes</hi> to the expenſe of one <hi>pearl.</hi> Before ſhe ſolemniz'd your <hi>auſpicious</hi> Nuptials: perhaps the <hi>dreſs</hi> of that <hi>Poem</hi> might, the <hi>ſubject</hi> could not be trou<g ref="char:EOLhyphen"/>bleſom, which was ſo pleaſing to your Ladyſhip. At this time my Muſe celebrates the <hi>new eſpouſals</hi> of a Royal <hi>Wid<g ref="char:EOLhyphen"/>dow</hi> to her Crown, I wiſh I could ſay to her <hi>King.</hi> Now though your Ladyſhip be entertain'd in the <hi>Porch,</hi> the De<g ref="char:EOLhyphen"/>dication of this Poem; yet the fabrick, namely the Sub<g ref="char:EOLhyphen"/>ject, is part of her Majeſties <hi>Revenue;</hi> unto whom I need no nearer Acceſs than your Ladyſhip, your perſon being as near the Queen as her ſhadow to her Body, or rather as her Body to her Head; joyn'd not onely by <hi>propinquity,</hi> but by <hi>influence</hi> alſo. And now; Madam, I have <hi>unboſom'd</hi> my whole deſign, which is, that the world by <hi>me,</hi> and her Ma<g ref="char:EOLhyphen"/>jesty by <hi>you</hi> may knovv, how much I am her Majeſties loyal Subject, and</p>
+            <closer>
+               <signed>
+                  <hi>Your Ladyſhips humbleſt Servant,</hi> JO. CRO<g ref="char:V">Ʋ</g>CH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:184499:3"/>
+            <head>THE MUSES JOY For the Recovery of that Weeping Vine <hi>HENRETTA MARIA.</hi>
+            </head>
+            <lg>
+               <l>THe Queen return'd! more wonders ſtill! a <hi>Troy</hi>
+               </l>
+               <l>Of ſpoiles and blood has built a <hi>Greece</hi> of joy!</l>
+               <l>Dull Age! thy long <hi>impriſon'd</hi> faith releaſe,</l>
+               <l>Believe, nay ſee, that miracles do not ceaſe:</l>
+               <l>Heav'ns arm has broke the cloud, <hi>made bare</hi> &amp; bright</l>
+               <l>Hath eas'd our faith, turn'd <hi>viſion</hi> into ſight.</l>
+               <l>But is the Queen arriv'd? come ſafely over?</l>
+               <l>Then <hi>Calice mingle Cliffs,</hi> and kiſs thy <hi>Dover?</hi>
+               </l>
+               <l>Then <hi>France</hi> and <hi>Chriſtendom</hi> be joyn'd to <hi>Kent,</hi>
+               </l>
+               <l>Not by a faſt League, but firm Continent.</l>
+               <l>But Waves made not this wonder, there hath ſtood</l>
+               <l>'Twixt her and us a wider <hi>Sea</hi> of Blood:</l>
+               <l>This Sea dry'd up, the Queen might freely paſs,</l>
+               <l>Her ſhip mov'd on a <hi>pavement,</hi> ſmooth as glaſs:</l>
+               <l>The waters ſenſible <hi>(as thoſe we pleaſe)</hi>
+               </l>
+               <l>Smile to tranſport the <hi>Queen of th' Narrow Seas.</hi>
+               </l>
+               <l>
+                  <hi>Phoebus</hi> if ever thou deſerv'd a <hi>Bow,</hi>
+               </l>
+               <l>Or <hi>Occidental</hi> Sacrifice, 'tis now;</l>
+               <pb facs="tcp:184499:4"/>
+               <l>The Eaſt-world to thy perfum'd Riſing kneels,</l>
+               <l>But now the Weſt thy <hi>Healing virtue</hi> feels:</l>
+               <l>The glorious ſplendor of thy Golden Rays</l>
+               <l>Has wing'd the <hi>Hours,</hi> and haſten'd happy dayes.</l>
+               <l>All ominous <hi>Meteors</hi> ſpent, this Sixtieth Year</l>
+               <l>The Stars drop <hi>hony</hi> in our Hemiſphere.</l>
+               <l>Never was Spring ſo verdant, ſpruce and gay;</l>
+               <l>For Mildews, <hi>Manna</hi> fell laſt Month of May:</l>
+               <l>
+                  <hi>Three</hi> ſent from Heav'n to curb unbridled Men:</l>
+               <l>
+                  <hi>One</hi> out of Gratitude went to Heav'n agen:</l>
+               <l>Reſolv'd, what careleſs Subjects leſt undone,</l>
+               <l>The Fathers <hi>Funeral</hi> ſhould be his <hi>Son.</hi>
+               </l>
+               <l>But the auſpicious Pow'rs above conclude</l>
+               <l>To mollifie this hard Viciſſitude:</l>
+               <l>Send us freſh <hi>Balm</hi> to heal that ſharp Rebuke,</l>
+               <l>
+                  <hi>Mother</hi> for <hi>Son,</hi> a <hi>Queen</hi> inſtead of <hi>Duke.</hi>
+               </l>
+               <l>
+                  <hi>Venus</hi> a <hi>Golden Apple</hi> ſent before,</l>
+               <l>A pledg of her Arrival on our ſhore:</l>
+               <l>Brings in her Arms <hi>Henretta</hi> too <hi>the fair;</hi>
+               </l>
+               <l>Princes and Princeſſes a <hi>Double pair,</hi>
+               </l>
+               <l>
+                  <hi>Exeters Angel</hi> breath'd here but a while,</l>
+               <l>
+                  <hi>Babe, Jeſus</hi>-like, an <hi>Infant in Exile!</hi>
+               </l>
+               <l>Is this that Queen whom a Rebellious Crew</l>
+               <l>Sent Bullets after for a <hi>kind adieu?</hi>
+               </l>
+               <l>One bor'd the place where Majeſty did ſit,</l>
+               <l>And came as near as Heav'n would ſuffer it:</l>
+               <l>Had you been preſent there, you might have ſeen</l>
+               <l>The <hi>King</hi> of <hi>Terrors</hi> proſtrate to a <hi>Queen.</hi>
+               </l>
+               <l>Such <hi>Iron pills</hi> the ſons of Death and Fate,</l>
+               <l>Preſcrib'd to <hi>cure</hi> the Feavers of a State!</l>
+               <l>Is this that <hi>living Martyr</hi> ſo hard preſt</l>
+               <l>With Injuries, would ſplit a vulgar Breaſt?</l>
+               <l>Wh' endur'd Affronts, Indignities and Force,</l>
+               <l>An unjuſt <hi>Exile,</hi> more unjuſt <hi>Divorce?</hi>
+               </l>
+               <l>Such a Divorce the worlds great eye ne'er ſaw,</l>
+               <l>Writ by the Sword, and ſeal'd by <hi>Canon-Law;</hi>
+               </l>
+               <l>Whoſe Act might paſt, and future times out-do,</l>
+               <l>When Law and <hi>Goſpel</hi> were divorced too:</l>
+               <l>A ſtrange Divorce! where the whole <hi>guilt</hi> was <hi>Love,</hi>
+               </l>
+               <l>And <hi>conſtancie</hi> the cauſe of ſuch <hi>Remove:</hi>
+               </l>
+               <pb facs="tcp:184499:4"/>
+               <l>Divorce more monſtrous yet! which rends the wife;</l>
+               <l>Not from her Husbands <hi>Boſom,</hi> but his <hi>Life.</hi>
+               </l>
+               <l>You <hi>Loyal Shepherdeſſes,</hi> who theſe <hi>Floods,</hi>
+               </l>
+               <l>Have liv'd 'mongſt <hi>Wolves</hi> and <hi>Satyrs</hi> in the Woods;</l>
+               <l>'Mongſt <hi>Ladies</hi> of all Trades, without reſpect,</l>
+               <l>Compell'd to uſe their ruder Dialect;</l>
+               <l>Spring out with your <hi>Diana,</hi> O break forth,</l>
+               <l>And ſhew the bleſt world, not your <hi>height,</hi> but <hi>worth.</hi>
+               </l>
+               <l>To your long <hi>clouded Firmament</hi> reſort,</l>
+               <l>And ſhine like bright ſtars in your <hi>Brittiſh</hi> Court:</l>
+               <l>You've now a <hi>Miſtreſs,</hi> an auſpicious <hi>Guide,</hi>
+               </l>
+               <l>To teach you <hi>modes</hi> of Modeſty, not Pride:</l>
+               <l>To make you <hi>Wiſe,</hi> not in a narrow ſenſe,</l>
+               <l>But meaſur'd by a Queens circumference.</l>
+               <l>Be like your <hi>Gems,</hi> not ſleek'd up for meer ſight,</l>
+               <l>But <hi>Influential</hi> too, as well as bright:</l>
+               <l>Of which ſome help the head, ſome heart, ſome ſpleen;</l>
+               <l>One Lady cures all theſe, that's like the Queen.</l>
+               <l>Welcom great <hi>Princeſs,</hi> by good Prov'dence ſent</l>
+               <l>Home to us, from your <hi>Native</hi> Baniſhment!</l>
+               <l>Delight to ſee your <hi>Royal Branches</hi> twine</l>
+               <l>Their Arms about you, their <hi>Beloved Vine;</hi>
+               </l>
+               <l>(That fruitful <hi>Vine,</hi> whoſe goodneſs made it ſmart;</l>
+               <l>That <hi>lives,</hi> and yet ſo long has <hi>bled</hi> at <hi>heart.</hi>)</l>
+               <l>On your Juſt <hi>Throne</hi> in ſerene ſafety ſit;</l>
+               <l>Forget all paſt, except the <hi>Benefit.</hi>
+               </l>
+               <l>The Heav'ns and Earth rejoyce at your return.</l>
+               <l>You cannot <hi>gratify</hi> their Joys, and mourn.</l>
+               <l>Madam, let no paſt ſuff'rings make you ſad;</l>
+               <l>When three Realms <hi>now</hi> conſpire to make you glad;</l>
+               <l>Your triumphs bound not here; the general voyce</l>
+               <l>Of more than Chriſtian World ecchoes, <hi>Rejoyce.</hi>
+               </l>
+               <l>
+                  <hi>London</hi> (long Widdow) was eſpous'd laſt May,</l>
+               <l>But till you came kept not her Nuptial day.</l>
+               <l>Share Empire with your Sons, our King, and Brother;</l>
+               <l>They ſhall command <hi>one Sex,</hi> and You the <hi>other.</hi>
+               </l>
+               <l>And now ſince <hi>Cromwell</hi> (by a fatall Boon)</l>
+               <l>
+                  <hi>Gaſp't</hi> in his bed <hi>too late,</hi> and yet <hi>too ſoon!</hi>
+               </l>
+               <l>Since <hi>Bradſhaw</hi> could not ſo much <hi>mercy</hi> win</l>
+               <l>To <hi>live</hi> to <hi>Hang</hi> and ſuffer for his ſin:</l>
+               <pb facs="tcp:184499:5"/>
+               <l>(Though his and <hi>Cromwels</hi> bloud together ſpilt</l>
+               <l>Were both too <hi>black</hi> to expiate their guilt)</l>
+               <l>Since divine Juſtice (ſo <hi>ſeverely kind</hi>)</l>
+               <l>Has ſcourg'd their <hi>Drudges,</hi> too long left behind!</l>
+               <l>Since <hi>Nolls</hi> whole Reign was but a <hi>Dream</hi> at beſt,</l>
+               <l>We'ill wind his <hi>ſtory</hi> up into a <hi>Jeſt.</hi>
+               </l>
+               <l>When this <hi>ſwoln Phaeton</hi> in the full Carreer</l>
+               <l>Of his uſurpt dominion 'mongſt us here;</l>
+               <l>Muſt in a <hi>brave</hi> his <hi>forraign Prancers</hi> rule,</l>
+               <l>(As if an <hi>Aſs</hi> grown proud would guide a <hi>Mule</hi>)</l>
+               <l>When this <hi>Suns Son</hi> fell from his hot Caroach,</l>
+               <l>Then the <hi>blest hours</hi> prepar'd the Kings approach:</l>
+               <l>His <hi>panting</hi> Heart preſag'd his tumbling down,</l>
+               <l>Not from his Chariot, but a Triple Crown,</l>
+               <l>I ſay a <hi>Triple</hi> Crown, for that was all,</l>
+               <l>
+                  <hi>(He gave the other to the Cardinal:)</hi>
+               </l>
+               <l>Whoſe <hi>Diadem</hi> ne'er girt his brow, till <hi>Dead;</hi>
+               </l>
+               <l>O thus may <hi>Death</hi> ſtill crown a Traitors <hi>Head!</hi>
+               </l>
+               <l>He's now <hi>below</hi> the <hi>Earth,</hi> there let him lie,</l>
+               <l>There rot, and once more in our <hi>Memories</hi> die.</l>
+               <l>But let our <hi>joys</hi> bleſs Heav'n for this <hi>rich Change,</hi>
+               </l>
+               <l>A King, Queen, Duke, and virtuous <hi>Orange,</hi>
+               </l>
+               <l>
+                  <hi>Henretta</hi> too; who left her native Air,</l>
+               <l>Not to be <hi>greater,</hi> but more <hi>Debonair:</hi>
+               </l>
+               <l>Wh' abroad like injur'd Pilgrims did converſe,</l>
+               <l>Here <hi>chain'd,</hi> there <hi>Tenants</hi> of the Univerſe.</l>
+               <l>
+                  <hi>Great England!</hi> Great, not in thy breadth or length;</l>
+               <l>Protected more by Providence than Strength:</l>
+               <l>Thou, in thy <hi>little Circle</hi> doſt contain</l>
+               <l>Princes too mighty both for <hi>France</hi> and <hi>Spain.</hi>
+               </l>
+               <l>O may thy People <hi>waſht in ſo much blood,</hi>
+               </l>
+               <l>Be humble, thankful, loyal, wiſe and good!</l>
+               <l>And may our good <hi>Queen</hi> never <hi>weep</hi> again,</l>
+               <l>Unleſs it be for <hi>joy</hi> ſhe once had <hi>pain,</hi>
+               </l>
+               <l>That once her <hi>bleſt Womb</hi> with a <hi>Charls</hi> did teem,</l>
+               <l>Should both a Crown <hi>Inherit</hi> and <hi>Redeem.</hi>
+               </l>
+               <l>Let proud Rebellion, ſunk as low as Hell,</l>
+               <l>For ever <hi>There,</hi> in its own <hi>Region,</hi> dwell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
